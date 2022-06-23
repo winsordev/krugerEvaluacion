@@ -1,0 +1,10 @@
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\bin\Debug\netcoreapp3.0\krugerEvaluacion.Core.deps.json
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\bin\Debug\netcoreapp3.0\krugerEvaluacion.Core.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\bin\Debug\netcoreapp3.0\krugerEvaluacion.Core.pdb
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\obj\Debug\netcoreapp3.0\krugerEvaluacion.Core.csproj.AssemblyReference.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\obj\Debug\netcoreapp3.0\krugerEvaluacion.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\obj\Debug\netcoreapp3.0\krugerEvaluacion.Core.AssemblyInfoInputs.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\obj\Debug\netcoreapp3.0\krugerEvaluacion.Core.AssemblyInfo.cs
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\obj\Debug\netcoreapp3.0\krugerEvaluacion.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\obj\Debug\netcoreapp3.0\krugerEvaluacion.Core.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Core\obj\Debug\netcoreapp3.0\krugerEvaluacion.Core.pdb

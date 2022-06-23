@@ -1,0 +1,16 @@
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\bin\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.deps.json
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\bin\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.runtimeconfig.json
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\bin\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.runtimeconfig.dev.json
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\bin\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\bin\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.pdb
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\bin\Debug\netcoreapp3.0\krugerEvaluacion.Core.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\bin\Debug\netcoreapp3.0\krugerEvaluacion.Core.pdb
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.csproj.AssemblyReference.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.AssemblyInfoInputs.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.AssemblyInfo.cs
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.csproj.CoreCompileInputs.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.csproj.CopyComplete
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.pdb
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.MigrationDB\obj\Debug\netcoreapp3.0\krugerEvaluacion.MigrationDB.genruntimeconfig.cache
