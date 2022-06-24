@@ -9,6 +9,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
+using krugerEvaluacion.Core.Exceptions;
 
 namespace krugerEvaluacion.Controllers
 {
@@ -44,8 +45,13 @@ namespace krugerEvaluacion.Controllers
         private async Task<(bool, Security)> IsValidUser(UserLogin login)
         {
             var user = await _securityService.GetLoginByCredentials(login);
-            var isValid = _passwordService.Check(user.Password, login.Password);
-            return (isValid, user);
+            if (user != null)
+            {
+                var isValid = _passwordService.Check(user.Password, login.Password);
+                return (isValid, user);
+            }
+
+            throw new BusinessException("User doesn't exist");
         }
 
         private string GenerateToken(Security security)

@@ -56,23 +56,8 @@
             var user = await _unitOfWork.UserRepository.GetById(post.UserId);
             if (user == null)
             {
-                throw new BusinessException("User doesn't exist");
+                throw new BusinessException("Usuario no existe.");
             }
-
-            var userPost = await _unitOfWork.PostRepository.GetPostsByUser(post.UserId);
-            //if (userPost.Count() < 10)
-            //{
-            //    var lastPost = userPost.OrderByDescending(x => x.Date).FirstOrDefault();
-            //    if ((DateTime.Now - lastPost.Date).TotalDays < 7)
-            //    {
-            //        throw new BusinessException("You are not able to publish the post");
-            //    }
-            //}
-
-            //if (post.Description.Contains("Sexo"))
-            //{
-            //    throw new BusinessException("Content not allowed");
-            //}
 
             await _unitOfWork.PostRepository.Add(post);
             await _unitOfWork.SaveChangesAsync();
@@ -80,15 +65,26 @@
 
         public async Task<bool> UpdatePropietario(Propietario post)
         {
-            var existingPost = await _unitOfWork.PostRepository.GetById(post.Id);
-            existingPost.Documento = post.Documento;
-            existingPost.Nombre = post.Nombre;
-            existingPost.Apellido = post.Apellido;
-            existingPost.Mail = post.Mail;
+            if (post.Id != 0)
+            {
+                var existingPost = await _unitOfWork.PostRepository.GetById(post.Id);
+                if (existingPost != null)
+                {
+                    existingPost.Documento = post.Documento;
+                    existingPost.Nombre = post.Nombre;
+                    existingPost.Apellido = post.Apellido;
+                    existingPost.Mail = post.Mail;
 
-            _unitOfWork.PostRepository.Update(existingPost);
-            await _unitOfWork.SaveChangesAsync();
-            return true;
+                    _unitOfWork.PostRepository.Update(existingPost);
+                    await _unitOfWork.SaveChangesAsync();
+                    return true;
+                }
+
+                throw new BusinessException("Propietario no existe en la Base de Datos");
+            }
+
+            throw new BusinessException("Codigo de Propietario no existe en la Base de Datos");
+
         }
 
         public async Task<bool> DeletePropietario(int id)

@@ -1,0 +1,16 @@
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\bin\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.deps.json
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\bin\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.runtimeconfig.json
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\bin\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.runtimeconfig.dev.json
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\bin\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\bin\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.pdb
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\bin\Release\netcoreapp3.0\krugerEvaluacion.Core.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\bin\Release\netcoreapp3.0\krugerEvaluacion.Core.pdb
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.AssemblyInfo.cs
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.csproj.CopyComplete
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.dll
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.pdb
+C:\Projects\Examples\kruger\krugerEvaluacion\krugerEvaluacion.Infrastructure\obj\Release\netcoreapp3.0\krugerEvaluacion.Infrastructure.genruntimeconfig.cache

@@ -26,9 +26,10 @@ namespace krugerEvaluacion.Infrastructure.Data
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer("Data Source=DESKTOP-JOUQLL7\\SQLEXPRESS2022;initial catalog=ParqueaderoDB;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework");
-        //}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            //optionsBuilder.UseSqlServer("Data Source=localhost,14333;Initial Catalog=ParqueaderoDB;Uid=sa;Pwd=zdf43sr5;Connect Timeout=3600; pooling='true'; Max Pool Size=200");
+            optionsBuilder.UseSqlServer();
+        }
     }
 }
